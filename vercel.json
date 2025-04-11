@@ -1,5 +1,9 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": []
+  "headers": [],
+  "env": {
+    "NOTION_PAGE_ID": "1d2ce973040d80a69e9bce8b3e67b206",
+    "NOTION_API_SECRET": "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"
+  }
 }
